@@ -18,7 +18,7 @@ content:
   email: sklucas@syr.edu
 #  phone: 
   address:
-    street: 450 Serra Mall
+    street: 114 Life Sciences Complex
     city: Syracuse
     region: NY
     postcode: '13214'
