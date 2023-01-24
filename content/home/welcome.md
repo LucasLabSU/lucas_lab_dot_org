@@ -7,7 +7,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  The Lucas Lab
+  Coming to Syracuse University in August 2023!
 hero_media: sarah_lucas.width-400.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **Lucas Lab** will start up at Syracuse University in August 2023. Check back for more info soon!
+The **Lucas Lab** will strive to understnad microbial community functions in a range of contexts, from human health & disease to biotechnology applications. Prospective research will specifically aim to reveal novel interactions between bacteriophage and their bacterial hosts, and in turn influence community dynamics.
