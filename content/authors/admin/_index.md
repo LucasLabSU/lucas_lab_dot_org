@@ -6,7 +6,7 @@ title: Sarah K. Lucas
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Assistant Professor (Fall 2023)
 
 # Organizations/Affiliations
 organizations:
