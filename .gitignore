@@ -5,9 +5,12 @@
 /resources/
 public/
 assets/jsconfig.json
+.hugo_build.lock
 
 # Illustrator files
 *.ai
 
 # Mac specific
 .DS_Store
+
+# hugo specifi
