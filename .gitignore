@@ -8,3 +8,6 @@ assets/jsconfig.json
 
 # Illustrator files
 *.ai
+
+# Mac specific
+.DS_Store
