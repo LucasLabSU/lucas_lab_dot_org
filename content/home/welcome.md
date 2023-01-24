@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **Lucas Lab** will strive to understand microbial community functions in a range of contexts, from human health & disease to biotechnology applications. Research questions will specifically aim to reveal novel interactions between bacteriophage and their bacterial hosts, and in turn influence community traits.
+The **Lucas Lab** will strive to understand microbial community functions in a range of contexts from human health & disease to biotechnology applications. Research questions will specifically aim to reveal novel interactions between bacteriophage and their bacterial hosts, and in turn influence community traits.
