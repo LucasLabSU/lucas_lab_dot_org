@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: The Lucas Lab (Coming August 2023!) # Website name
+title: The Lucas Lab # Website name
 baseURL: 'https://lucaslab.org/' # Website URL
 
 ############################
