@@ -8,7 +8,7 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
   Coming to Syracuse University in August 2023!
-hero_media: sarah_lucas.width-400.png
+hero_media: SYRACUSE_heritage_ORANGE_RGB.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -19,4 +19,6 @@ design:
 
 <br>
 
-The **Lucas Lab** will strive to understand microbial community functions in a range of contexts from human health & disease to biotechnology applications. Research questions will specifically aim to reveal novel interactions between bacteriophage and their bacterial hosts, and in turn influence community traits.
+The **Lucas Lab** will strive to understand microbial community functions in a range of contexts from human health & disease to biotechnology applications. Research questions will aim to reveal novel interactions between bacteriophage and their bacterial hosts, and in turn influence community traits.
+
+The Lucas Lab will be affiliated with the [**BioInspired Institute**](https://bioinspired.syr.edu/), and in accordance with its mission, invites interdisciplenary collaborations that focus on the interface of material and living systems.
