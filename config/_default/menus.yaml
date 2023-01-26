@@ -6,13 +6,16 @@
 main:
   # - name: Research
   #   url: research
-  #   weight: 10
+  #   weight: 40
+  - name: Join Us
+    url: joinus
+    weight: 40  
   # - name: News
   #   url: post
   #   weight: 20
   - name: Team
     url: people
-    weight: 30
+    weight: 10
   # - name: Events
   #   url: event
   #   weight: 40
