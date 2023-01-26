@@ -52,6 +52,8 @@ content:
 
 design:
   columns: '1'
+  
+hero_media: SU.png
 ---
 
 
