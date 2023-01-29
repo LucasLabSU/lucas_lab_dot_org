@@ -3,7 +3,7 @@ title: Research
 subtitle:
 widget: blank
 headless: true
-weight: 40
+weight: 30
 design:
   columns: '1'
 ---
@@ -16,7 +16,7 @@ The study of bacteriophages - viruses that have bacterial hosts - has led to sev
 
 ### Expanding phage research in anaerobic systems
 
-The technical ability to resolve phage-related sequences from metagenomic data is currently experiencing rapid growth. As algorithms improve, and databases grow, we can begin to appreciate that some of the most prevalent and abundant bacterial members of the human microbiome and the phages they host, are yet to be characterized. Historically, phage research has centered around medically or industrially relevant bacteria that are easily cultivated under normal laboratory conditions. However, some of the most abundant and prevalent bacteria in the human microbiome are obligate anaerobes, complicating the characterization of them and their cognate phage populations. Our research places a special emphasis on studying such organisms.
+The technical ability to resolve phage-related sequences from metagenomic data is currently experiencing rapid growth. As algorithms improve, and databases grow, we can begin to appreciate that many of bacterial members of the human microbiome and the phages they host are yet to be characterized. Historically, phage research has centered around medically or industrially relevant bacteria that are easily cultivated under normal laboratory conditions. However, some of the most abundant and prevalent bacteria in the human microbiome are obligate anaerobes, complicating the characterization of them and their cognate phage populations. Our research places a special emphasis on studying such organisms.
 
 <!-- ## Phage Functions
 
