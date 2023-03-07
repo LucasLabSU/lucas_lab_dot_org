@@ -21,6 +21,6 @@ design:
 
 The **Lucas Lab** will focus on understanding microbial community functions in a range of contexts from human health & disease to biotechnology applications.
 
-The Lucas Lab will be affiliated with the [**BioInspired Institute**](https://bioinspired.syr.edu/) and invites interdisciplenary collaborations that focus on the interface of material and living systems.
+The Lucas Lab will be affiliated with the [**BioInspired Institute**](https://bioinspired.syr.edu/) and invites interdisciplinary collaborations that focus on the interface of material and living systems.
 
 {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
