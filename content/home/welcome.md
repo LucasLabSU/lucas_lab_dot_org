@@ -7,7 +7,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  The Lucas Lab at Syracuse University
+  Microbiome research at Syracuse University
 hero_media: SYRACUSE_heritage_ORANGE_RGB.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
